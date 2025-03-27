@@ -12,6 +12,9 @@
 @import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
 @import url("https://clearvision.github.io/ClearVision-v7/vencord.css");
 /* SETTINGS */
+.appAsidePanelWrapper_a3002d {
+    font-family:內海字體 ;
+}
 :root {
   /* ACCENT COLORS */
   --main-color: #2780e6;
